@@ -1,0 +1,6 @@
+appId: com.example.todo_architec
+---
+- launchApp
+- swipe:
+    start: 50%, 60%
+    end: 50%, 20%
